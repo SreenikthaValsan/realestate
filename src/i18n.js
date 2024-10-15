@@ -19,7 +19,8 @@ const resources = {
       townhouse: "Townhouse",
       budgetRange: "Budget Range",
       bookNow: "Book Now",
-      back: "Back"
+      back: "Back",
+      selectCountry : "Select Country"
     }
   },
   fr: {
@@ -39,7 +40,8 @@ const resources = {
       townhouse: "Maison de ville",
       budgetRange: "Gamme de budget",
       bookNow: "Réserver maintenant",
-      back: "Retour"
+      back: "Retour",
+      selectCountry: "Sélectionner un pays"
     }
   },
   de: {
@@ -59,7 +61,8 @@ const resources = {
       townhouse: "Reihenhaus",
       budgetRange: "Budgetbereich",
       bookNow: "Jetzt buchen",
-      back: "Zurück"
+      back: "Zurück",
+      selectCountry: "Land auswählen"
     }
   },
   es: {
@@ -79,7 +82,8 @@ const resources = {
       townhouse: "Casa adosada",
       budgetRange: "Rango de presupuesto",
       bookNow: "Reservar ahora",
-      back: "Regresar"
+      back: "Regresar",
+      selectCountry: "Seleccionar país"
     }
   },
   pt: {
@@ -99,7 +103,8 @@ const resources = {
       townhouse: "Casa geminada",
       budgetRange: "Faixa de orçamento",
       bookNow: "Reserve agora",
-      back: "Voltar"
+      back: "Voltar",
+      selectCountry: "Selecionar país"
     }
   },
   ar: {
@@ -119,10 +124,10 @@ const resources = {
       townhouse: "بيت مستقل",
       budgetRange: "نطاق الميزانية",
       bookNow: "احجز الآن",
-      back: "رجوع"
+      back: "رجوع",
+      selectCountry: "اختيار البلد"
     }
   }
-  
 };
 
 i18n.use(initReactI18next).init({
