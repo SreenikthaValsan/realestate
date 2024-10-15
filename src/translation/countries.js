@@ -16,6 +16,7 @@ const countries = [
     { name: 'Greece', code: 'GR', flag: '🇬🇷', currency: 'EUR', callingCode: '30' },
     { name: 'Hungary', code: 'HU', flag: '🇭🇺', currency: 'HUF', callingCode: '36' },
     { name: 'Iceland', code: 'IS', flag: '🇮🇸', currency: 'ISK', callingCode: '354' },
+     { name: 'India', code: 'IN', flag: '🇮🇳', currency: 'INR', callingCode: '91' },
     { name: 'Ireland', code: 'IE', flag: '🇮🇪', currency: 'EUR', callingCode: '353' },
     { name: 'Italy', code: 'IT', flag: '🇮🇹', currency: 'EUR', callingCode: '39' },
     { name: 'Latvia', code: 'LV', flag: '🇱🇻', currency: 'EUR', callingCode: '371' },
