@@ -37,6 +37,7 @@ const HomePage = () => {
         <option value="de">DE (German)</option>
         <option value="es">ES (Spanish)</option>
         <option value="pt">PT (Portugese)</option>
+        <option value="ar">AR (Arabic)</option>
       </select>
     </div>
   );

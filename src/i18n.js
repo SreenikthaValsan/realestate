@@ -102,6 +102,27 @@ const resources = {
       back: "Voltar"
     }
   },
+  ar: {
+    translation: {
+      title: "العقارات: بدون وسيط",
+      scheduleAppointment: "حدد موعدك!",
+      email: "البريد الإلكتروني",
+      bookYourDay: "احجز يومك",
+      fullName: "الاسم الكامل",
+      phone: "الهاتف",
+      date: "التاريخ",
+      time: "الوقت",
+      propertyType: "نوع العقار",
+      apartment: "شقة",
+      house: "منزل",
+      condo: "شقة سكنية",
+      townhouse: "بيت مستقل",
+      budgetRange: "نطاق الميزانية",
+      bookNow: "احجز الآن",
+      back: "رجوع"
+    }
+  }
+  
 };
 
 i18n.use(initReactI18next).init({
