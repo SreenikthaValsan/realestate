@@ -10,8 +10,8 @@ const timezoneToLanguageMap = {
   "Europe/Berlin": "de",
   "Europe/Madrid": "es",
   "America/Sao_Paulo": "pt",
-  "Asia/Dubai": "ar", 
-  "Asia/Riyadh": "ar"
+  "Asia/Dubai": "en", 
+  "Asia/Riyadh": "en"
 };
 
 const HomePage = () => {
